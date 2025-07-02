@@ -1,9 +1,15 @@
 ## Hi there 👋
 
-## 📈 My GitHub Stats
+
+
+### 📈 My GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyril2007&theme=dark&hide_border=false)](https://github.com/cyril2007)
+
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyril2007&show_icons=true&theme=dark&hide_border=false)](https://github.com/cyril2007)
+
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyril2007&layout=compact&theme=dark&hide_border=false)](https://github.com/cyril2007)
 
 
